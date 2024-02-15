@@ -1,5 +1,5 @@
 <h1 align="center">Me chamo Samuel Azevedo</h1>
-<h3 align="center">e sou um estudante de programação e ti</h3>
+<h3 align="center">e sou um estudante de programação</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
